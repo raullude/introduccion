@@ -1,0 +1,5 @@
+public class Welcome {
+public void Main(String[] args) {
+System.out.println(’Welcome to Java!);
+}
+)

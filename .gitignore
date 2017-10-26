@@ -1,0 +1,5 @@
+#Ignora los directorios
+*.class
+
+#ignora los doc
+*doc
